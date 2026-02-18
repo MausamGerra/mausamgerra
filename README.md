@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mausamgerra&label=Profile%20views&color=0e75b6&style=flat" alt="mausamgerra" /> </p>
 
-- 🔭 I’m currently working on [Fitness Marketplace]([https://github.com/MausamGerra/PongGame](https://github.com/MausamGerra/Fitness_Marketplace)
+- 🔭 I’m currently working on [Fitness Marketplace]([https://github.com/MausamGerra/PongGame])
 
 - 🌱 I’m currently learning **Capacitor, Ionic, ReactNative**
 
